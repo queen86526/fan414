@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<范范 html>
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
@@ -174,7 +174,7 @@
             <div class="hexagram-number" id="hexagramNumber"></div>
         </div>
         <div class="description" id="hexagramDescription"></div>
-        <div class="footer">3次免费解卦➕护符福袋</div>
+        <div class="footer">抽3次免费解卦➕护符福袋</div>
     </div>
 
     <script>
